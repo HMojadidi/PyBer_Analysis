@@ -29,4 +29,8 @@ Using Pandas and the functions pivot() and resample(), I created a multi-line gr
 ![Screen Shot 2022-03-29 at 12 44 36 AM](https://user-images.githubusercontent.com/95712234/160534995-8be67855-17b9-4bde-bb83-dc01c250ef07.png)
 
 
-As can be seen, in the above graph, The Urban cities produced the highest total in weekly fares, followed by the Suburban cities and lastly followed by the Rural areas. 
+As can be seen, in the above graph, The Urban cities produced the highest total in weekly fares, followed by the Suburban cities and lastly trailed by the Rural areas. 
+
+## Summary:
+
+Upon review of the above DataFrames and graph, one can conclude that the higher availability of drivers keeps the cost of fares per ride and per driver low in Urban areas. In contrast, the lower number of drivers in the Suburban cities and even more so in Rural areas, gave drivers the opportunity to charge more for their trips per ride and per driver. One can conclude that the a higher availability of drivers could produce more income in total fares while keeping the fares lower. A recommendation would be to suggest further investigate how increasing the number of drivers in rural and suburban areas could generate more profits for the company. One can also look into incentives for hiring more drivers in rural and suburban areas in order to increase profit and make ride-sharing more accessible. 
