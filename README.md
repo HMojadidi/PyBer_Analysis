@@ -14,11 +14,11 @@ The PyBer Challenge had started off by merging two .csv files to create a DataFr
 
 ![Screen Shot 2022-03-29 at 12 30 48 AM](https://user-images.githubusercontent.com/95712234/160533572-bb8ede78-696b-4ebc-973b-410a79969179.png)
 
-As the Summary DataFrame results show, the Urban cities has the lead in total rides, total drivers, produced the highest fares total, but were charging less as average fare per ride and average fare per driver. The opposite was true for Rural areas which had the least numbers in total rides, total drivers, total fares, yet charged the most in average fare per ride and average far per driver. The Suburban areas fell in the middle consistently with these five categories. 
+As the Summary DataFrame results show, the Urban cities have the lead in total rides, total drivers, produced the highest fares total, but were charging less in average fare per ride and average fare per driver. The opposite was true for Rural areas which had the least numbers in total rides, total drivers, total fares, yet charged the most in average fare per ride and average fare per driver. The Suburban areas fell in the middle consistently with these five categories. 
 
 ### Deliverable 2: 
 
-#### Create a multiple line plot that shows the total weekly of the fares for each type of city
+#### Create a multiple line plot that shows the total weekly fares for each type of city
 
 Using Pandas and the functions pivot() and resample(), I created a multi-line graph that shows the total fares for each week by city type. Using the loc method, a new DataFrame was formed on the date range 2019-01-01 through 2019-04-28. The resample() function helped resample the data into weekly bins and then applying the sum() method I got the total fares for each week. 
 
@@ -33,6 +33,6 @@ As can be seen, in the above graph, The Urban cities produced the highest total 
 
 ## Summary:
 
-Upon review of the above DataFrames and graph, one can conclude that the higher availability of drivers keeps the cost of fares per ride and per driver low in Urban areas. In contrast, the lower number of drivers in the Suburban cities and even more so in Rural areas, gave drivers the opportunity to charge more for their trips per ride and per driver. One can conclude that the a higher availability of drivers could produce more income in total fares while keeping the fares lower. A recommendation would be to suggest further investigate how increasing the number of drivers in rural and suburban areas could generate more profits for the company. One can also look into incentives for hiring more drivers in rural and suburban areas in order to increase profit and make ride-sharing more accessible. 
+Upon review of the above DataFrames and graph, one can conclude that the higher availability of drivers keeps the cost of fares per ride and per driver low in urban areas. In contrast, the lower number of drivers in the suburban cities and even more so in rural areas, gave drivers the opportunity to charge more for their trips per ride and per driver. One can conclude that the a higher availability of drivers could produce higher revenue in total fares while keeping the fares low. My recommendation would be to further investigate how increasing the number of drivers in rural and suburban areas could generate more profits for the company. One can also look into incentives for hiring more drivers in rural and suburban areas in order to increase profits and make ride-sharing more accessible. 
 
 ### (This README.md is Deliverable 3)
