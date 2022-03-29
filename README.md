@@ -10,7 +10,7 @@ In preparing a data analysis presentation for the CEO of PyBer, a major ride-sha
 
 #### Getting a Summary DataFrame
 
-The PyBer Challenge had started off by merging two .csv files to create a DataFrame. From that DataFrame, I went on to create a new one called the 'pyber-summary_df' which would calculate the total rides, total drivers, total fares, average fare per ride, and average fare per driver. I also formatted the calculations to make sure they looked presentation-worty.
+The PyBer Challenge had started off by merging two .csv files to create a DataFrame. From that DataFrame, I went on to create a new one called the 'pyber-summary_df' which would calculate the total rides, total drivers, total fares, average fare per ride, and average fare per driver. I also formatted the calculations to make sure they looked presentation-worthy.
 
 ![Screen Shot 2022-03-29 at 12 30 48 AM](https://user-images.githubusercontent.com/95712234/160533572-bb8ede78-696b-4ebc-973b-410a79969179.png)
 
