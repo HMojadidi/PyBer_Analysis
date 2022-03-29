@@ -34,3 +34,5 @@ As can be seen, in the above graph, The Urban cities produced the highest total 
 ## Summary:
 
 Upon review of the above DataFrames and graph, one can conclude that the higher availability of drivers keeps the cost of fares per ride and per driver low in Urban areas. In contrast, the lower number of drivers in the Suburban cities and even more so in Rural areas, gave drivers the opportunity to charge more for their trips per ride and per driver. One can conclude that the a higher availability of drivers could produce more income in total fares while keeping the fares lower. A recommendation would be to suggest further investigate how increasing the number of drivers in rural and suburban areas could generate more profits for the company. One can also look into incentives for hiring more drivers in rural and suburban areas in order to increase profit and make ride-sharing more accessible. 
+
+### (This README.md is Deliverable 3)
